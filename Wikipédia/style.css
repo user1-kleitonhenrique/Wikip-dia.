@@ -1,0 +1,44 @@
+body{
+    width: 100%;
+    overflow-x: hidden;
+    
+}
+#logoWiki{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: rgb(255, 237, 237);
+}
+#dov{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#dovv{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+#tituloCabecalho{
+    text-decoration: underline
+}
+
+#dovvv{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    padding: 150px;
+   
+}
+
+#One{
+    
+    margin: 80px;
+    display: flex;
+    
+
+}
+
